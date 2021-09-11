@@ -1,0 +1,2 @@
+# avaxminer.github.io
+avaxminer
